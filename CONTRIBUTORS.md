@@ -1020,6 +1020,11 @@ to explore life. Also, Python and Django Developer
 - Bio: I love guitar!
 - GitHub: [JoeScho](https://github.com/JoeScho)
 
+#### Name: [Jordan Hilado](http://jordanhilado.github.io/)
+- Place: Los Angeles, CA, USA
+- Bio: First-year Computer Science student @ CSU Long Beach
+- GitHub: [Jordan Hilado](https://github.com/jordanhilado)
+
 #### Name: [JULIE QIU](https://github.com/julieqiu)
 - Place: New York City, NY, USA
 - Bio: Software Engineer; Loves iced coffee
